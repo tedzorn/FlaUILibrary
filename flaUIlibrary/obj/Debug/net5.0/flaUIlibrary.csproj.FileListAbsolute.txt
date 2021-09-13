@@ -1,0 +1,12 @@
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\bin\Debug\net5.0\flaUIlibrary.deps.json
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\bin\Debug\net5.0\flaUIlibrary.dll
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\bin\Debug\net5.0\ref\flaUIlibrary.dll
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\bin\Debug\net5.0\flaUIlibrary.pdb
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\obj\Debug\net5.0\flaUIlibrary.csproj.AssemblyReference.cache
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\obj\Debug\net5.0\flaUIlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\obj\Debug\net5.0\flaUIlibrary.AssemblyInfoInputs.cache
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\obj\Debug\net5.0\flaUIlibrary.AssemblyInfo.cs
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\obj\Debug\net5.0\flaUIlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\obj\Debug\net5.0\flaUIlibrary.dll
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\obj\Debug\net5.0\ref\flaUIlibrary.dll
+C:\Users\Ted Zorn\source\repos\FlaUILibrary\flaUIlibrary\obj\Debug\net5.0\flaUIlibrary.pdb
